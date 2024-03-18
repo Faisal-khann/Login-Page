@@ -15,6 +15,7 @@ HTML elements are represented by <> tags.
 <br>
 An HTML Element is a collection of start and end tags with the content inserted in between them.
 HTML elements are building blocks of web pages, representing different types of content such as headings, paragraphs, links, and images.
+<br>
 <strong>Note:</strong>HTML is Not Case Sensitive and HTML tags are not case-sensitive: <B> means the same as <b> for bold of text.
 
 
