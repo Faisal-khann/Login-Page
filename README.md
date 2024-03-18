@@ -1,10 +1,11 @@
 # Login-Page
-#Screenshot
-<strong>Sign-Up Section:</strong>
-<br><br>
+A login form is a section of a website that uses a user's credentials to authenticate their access, 
+and to provide web security, accessibility, and access to restricted areas
+
+ ## Screenshots
 <img width="670" alt="sing-up" src="https://github.com/Faisal-khann/Login-Page/assets/119971851/43359fe1-63fd-4e46-ad70-0859f92af476">
 <br><br>
-<strong>Sign-In Section:</strong>
+Following below are the Screenshot of <strong>Sign-In Section.</strong>
 <br><br>
 <img width="641" alt="sing-in" src="https://github.com/Faisal-khann/Login-Page/assets/119971851/73bbf960-637d-4910-90fd-4e3ad15d5c35">
 <br><br><br>
