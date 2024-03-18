@@ -1,8 +1,9 @@
 # Login-Page
 This is a types of login page built in Html5, css3 and some concept of javascript.<br>
-A login form is a section of a website that uses a user's credentials to authenticate their access, 
-and to provide web security, accessibility, and access to restricted areas.
+A login form is a section of a website that uses a user's credentials to 
+authenticate their access, and to provide web security, accessibility, and access to restricted areas.<br>
 In this page there is two section which is Sign-up section and Sign-in section.
+
 
 
  ## Screenshots
