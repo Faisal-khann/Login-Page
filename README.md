@@ -1,6 +1,7 @@
 # Login-Page
-<p>Here, It is the sample of login page which is made by the help of different html elements, css and javascript</p>
+<p>Here is the Screenshot</p>
 <br>
+
 ************<strong>HTML and Its Elements</strong>*************
 <br>
 :->HTML stands for HyperText Markup Language. It is the standard language used to create and design web pages on the internet.
