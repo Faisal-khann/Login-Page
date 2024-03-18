@@ -11,6 +11,7 @@ Since then, it has evolved through versions from HTML 2.0 to HTML5 (the latest 2
 :->HTML is a combination of Hypertext and Markup language.
 Hypertext defines the link between the web pages and Markup language defines the text document within the tag.
 <br>
+<img width="518" alt="Syntax" src="https://github.com/Faisal-khann/Login-Page/assets/119971851/0db6030e-d0a5-463b-bd95-cfb98fbc7a4b">
 
 
 
